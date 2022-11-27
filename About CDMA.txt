@@ -1,0 +1,5 @@
+About CDMA Program
+
+The MATLAB coding describes Single user CDMA & Multi-user CDMA programs. The multiple users spread CDMA signals that are summed together at the receiver.
+BER performance is used to compare the multi-user performance. Each user will apply the conventional despreader (matched filter) at the receiver before making the symbol-by-symbol decision. The CDMA model is designed under additive white Gaussian noise which spreads and despreads using m-sequence code with the lengths 7 & 15. The single-user analytical AWGN channel is plotted for reference. The multi-users have similar BER performance. Due to the noise and interference CDMA model is subjected to small degradation.
+ 
